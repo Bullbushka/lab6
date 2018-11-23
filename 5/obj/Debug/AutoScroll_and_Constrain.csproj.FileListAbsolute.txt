@@ -1,0 +1,13 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\bin\Debug\5.exe.config
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\bin\Debug\5.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\bin\Debug\5.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\bin\Debug\PictureElement.dll
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\bin\Debug\PictureElement.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\AutoScroll_and_Constrain.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\_5.Form1.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\_5.Properties.Resources.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\AutoScroll_and_Constrain.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\AutoScroll_and_Constrain.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\AutoScroll_and_Constrain.csproj.CopyComplete
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\5.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\6\5\obj\Debug\5.pdb

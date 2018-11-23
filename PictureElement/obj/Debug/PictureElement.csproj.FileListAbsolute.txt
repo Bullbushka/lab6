@@ -1,0 +1,8 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\bin\Debug\PictureElement.dll
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\bin\Debug\PictureElement.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.NamePictureElement.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.dll
+C:\Users\n1kita\Desktop\C-Sharp-master\6\PictureElement\obj\Debug\PictureElement.pdb

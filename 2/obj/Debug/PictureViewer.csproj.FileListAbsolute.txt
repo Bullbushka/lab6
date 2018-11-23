@@ -1,0 +1,10 @@
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\bin\Debug\2.exe.config
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\bin\Debug\2.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\bin\Debug\2.pdb
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\PictureViewer.csprojAssemblyReference.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\_2.Form1.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\_2.Properties.Resources.resources
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\2.exe
+C:\Users\n1kita\Desktop\C-Sharp-master\6\2\obj\Debug\2.pdb
